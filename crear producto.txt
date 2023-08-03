@@ -1,0 +1,33 @@
+class persona  :
+    def __init__(self, nombre, genero, edad ,dni ):
+        self._nombre = nombre 
+        self._genero = genero
+        self._dni = dni
+        self._fecha_naciemnto = fecha _naciemto
+        self-_peso = peso 
+        self._altura = altura practica 01.py
+
+class alumno(perosna);
+    def __int_(self, nombre, genero, dni,fecha_naciemto,peso,altura,id_estudiante  )
+        super().__init__(nombre, genero, )
+
+
+
+
+
+    def estudiar ( self,punto_llegada):
+        print(f"{self._nombre}tienes que {punto_llegada}")
+        print("si llegaste delante de ahi")
+    def trabajar(self,tiempo_de_trabajar):
+        print(f"{self.nombre}empieza a trabajar {tiempo_trabajar}")
+
+
+
+
+
+brayan = persona ("brayan","varon","19","60174302", 1)
+brayan.estudiar("leer")
+
+
+brayan = persona("brayan","mujer","20",15405511, 1)
+brayan = trabajar("5 horas")
